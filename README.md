@@ -57,4 +57,3 @@
 * Steve Sax
 * Jeremy Lam
 * Erlinda Ayala
-# fullstack-example-collaboration-repo
